@@ -1,4 +1,4 @@
-# SportsBetting
+# SportsGamePrediction
 
 ## Data Acquisition
 Wrote a web scraper with equests, selenoum, and beautifulsoup to pull 12 years of sports moneyline data with 24,000 rows on https://www.oddsportal.com/
