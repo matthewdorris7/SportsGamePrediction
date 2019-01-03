@@ -10,4 +10,3 @@ Cleaned the dataset with pandas and numPy to perform data analysis.
 Saw a trend in specific moneylines in relation to scores and game outcomes. Visualized data.
 
 ## Web Automation
-Automated the algorithm so optimal bets would be selected and placed with a specified amount of money 
